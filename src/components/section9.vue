@@ -27,7 +27,8 @@
         <p class="pt-1 pl-5 pr-5">Latihan-Clean Code <a href="https://docs.google.com/document/d/1KLAKKe6OZuQrRjJPlPgT7fj9U44-NWdBPnbBmRP_nbY/edit" target="_blank">klik disini</a></p>
 
         <div>
-        <img class="pt-1 pl-5 pr-5 pb-5" style="width:70%" src="../assets/CleanCode.png" alt="cleancode">
+        <img class="pt-1 pl-5 pr-5 pb-5" style="width:70%" src="../assets/Screenshot (403).png" alt="cleancode">
+        <img class="pt-1 pl-5 pr-5 pb-5" style="width:70%" src="../assets/Screenshot (404).png" alt="cleancode">
         </div>
         
     </div>

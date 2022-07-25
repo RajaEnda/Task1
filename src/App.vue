@@ -9,31 +9,31 @@
             <b-tab title="Home" active>
               <home/>
             </b-tab>
-            <b-tab title="Section 2">
+            <b-tab title="Task 2">
               <section2/>
             </b-tab>
-            <b-tab title="Section 3">
+            <b-tab title="Task 3">
               <section3/>
             </b-tab>
-            <b-tab title="Section 4">
+            <b-tab title="Task 4">
               <section4/>
             </b-tab>
-            <b-tab title="Section 5">
+            <b-tab title="Task 5">
              <section5/>
             </b-tab>
-            <b-tab title="Section 6">
+            <b-tab title="Task 6">
               <section6/>
             </b-tab>
-            <b-tab title="Section 7">
+            <b-tab title="Task 7">
               <section7/>
             </b-tab>
-            <b-tab title="Section 8">
+            <b-tab title="Task 8">
               <section8/>
             </b-tab>
-            <b-tab title="Section 9">
+            <b-tab title="Task 9">
               <section9/>
             </b-tab>
-            <b-tab title="Section 10">
+            <b-tab title="Task 10">
               <section10/>
             </b-tab>
           </b-tabs>

@@ -11,7 +11,7 @@
         <p class="pt-1 pl-5 pr-5">Latihan-Version Control and Branch Management (Git) <a href="https://docs.google.com/document/d/1nz3T5hTSC-C1TjsPnCvTCrkfzzJUEan4zOXxthfotTY/edit" target="_blank">klik disini</a></p>
 
         <div>
-        <img class="pt-1 pl-5 pr-5 pb-5" style="width:70%" src="../assets/praktikumGit.png" alt="Git">
+        <img class="pt-1 pl-5 pr-5 pb-5" style="width:70%" src="../assets/Screenshot (39).png" alt="Git">
         </div>
     </div>
 </template>
